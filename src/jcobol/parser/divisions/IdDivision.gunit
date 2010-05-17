@@ -1,0 +1,7 @@
+gunit IdDivision;
+
+
+//------------------- id_division
+id_division:
+
+"IDENTIFICATION DIVISION."  -> ^(IDENTIFICATION)
