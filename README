@@ -1,0 +1,22 @@
+jCobolParser - A Cobol 85 X3.23-1985 parser written in Java.
+
+This directory contains source code, javadoc and final .jar of jCobolParser.
+
+Status:
+
+Work in progress. Parse ID, ENVIRONMENT and DATA DIVISION.
+Pending PROCEDURE DIVISION.
+
+License:
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+
+Andres Grino B
+agrinob@hotmail.com
+
+Pichilemu, VI Region, Chile
+May/2010
